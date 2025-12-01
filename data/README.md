@@ -1,7 +1,5 @@
 # DATA FOLDER
 
----
-
 ### Purpose:
 Stores all datasets used in the project.
 

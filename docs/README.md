@@ -1,7 +1,5 @@
 # DOCUMENTATION
 
----
-
 ### Purpose:
 Project reference material and explanations.
 

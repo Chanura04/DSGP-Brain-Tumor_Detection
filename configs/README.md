@@ -1,7 +1,5 @@
 # CONFIGURATIONS
 
----
-
 ###  Purpose:
 Stores YAML/JSON files with hyperparameters, model parameters, 
 dataset paths, training settings.

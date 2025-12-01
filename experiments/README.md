@@ -1,7 +1,5 @@
 # EXPERIMENTS FOLDER
 
----
-
 ### Purpose:
 Each **subfolder** represents **one training experiment**.
 

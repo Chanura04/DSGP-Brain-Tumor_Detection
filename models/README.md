@@ -1,7 +1,5 @@
 # MODELS FOLDER
 
----
-
 ### Purpose:
 Stores all trained models and checkpoints.
 

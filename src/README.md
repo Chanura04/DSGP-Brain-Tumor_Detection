@@ -1,7 +1,5 @@
 # SOURCE CODE
 
----
-
 ### Purpose:
 Core package of the project. Contains all reusable, production-ready Python code.
 

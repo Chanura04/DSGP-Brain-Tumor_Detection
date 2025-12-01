@@ -1,7 +1,5 @@
 # TESTS
 
----
-
 ### Purpose:
 Add automated testing for all critical functions.
 

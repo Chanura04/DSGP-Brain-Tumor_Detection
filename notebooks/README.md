@@ -1,7 +1,5 @@
 # NOTEBOOKS FOLDER
 
----
-
 ### Purpose:
 Contains Google Colab notebooks used for exploration and analysis. Organize by purpose (EDA, modeling, reporting).
 

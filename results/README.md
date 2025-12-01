@@ -1,7 +1,5 @@
 # RESULTS FOLDER
 
----
-
 ### Purpose:
 Contains final results and visualizations for reports or presentations.
 
