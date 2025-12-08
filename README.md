@@ -4,7 +4,7 @@
 - Member 1 – Head detection
 - Member 2 – CT tumor detection
 - Member 3 – MRI tumor detection
-- Member 4 – Tumor segemntation
+- Member 4 – Tumor Segementation
 
 ---
 
