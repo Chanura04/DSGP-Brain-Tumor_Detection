@@ -1,10 +1,10 @@
 # Project Name: Brain Tumor Detection and Classification System
 
 ## 👥 Team Members
-- Member 1 – Data Engineering
-- Member 2 – Modeling & Experiments
-- Member 3 – EDA & Visualization
-- Member 4 – Documentation & Deployment
+- Member 1 – Head detection
+- Member 2 – CT tumor detection
+- Member 3 – MRI tumor detection
+- Member 4 – Tumor segemntation
 
 ---
 
